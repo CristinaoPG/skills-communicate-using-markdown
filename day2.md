@@ -10,3 +10,16 @@
 - [ ] Task 1
 - [x] Task 2
 - [x] Task 3
+
+
+```bash
+git clone https://github.com/skills/communicate-using-markdown
+```
+
+```js
+var myVar = "Hello, world!";
+```
+
+```sql
+SELECT * FROM syscomments
+```
